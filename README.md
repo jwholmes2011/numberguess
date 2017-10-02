@@ -1,2 +1,2 @@
 # numberguess
-A simple number game from 2014
+A simple number guessin game in Python.
